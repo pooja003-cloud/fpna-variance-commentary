@@ -1,0 +1,172 @@
+id,period,comparison,metric,level,unit,base,actual,var_abs,var_pct,direction,favourable,material,required,position,reason_source
+plan_vs_actual|Q1 FY25|total_revenue,Q1 FY25,plan_vs_actual,total_revenue,total,usd_m,3129.5,3283.0,153.5,4.904937,up,True,False,False,above,
+plan_vs_actual|Q1 FY25|gaap_operating_income,Q1 FY25,plan_vs_actual,gaap_operating_income,total,usd_m,241.0,271.0,30.0,12.448133,up,True,False,False,above,
+plan_vs_actual|Q1 FY25|gaap_diluted_eps,Q1 FY25,plan_vs_actual,gaap_diluted_eps,total,usd_per_share,0.635,0.7,0.065,10.23622,up,True,True,True,above,
+plan_vs_actual|Q2 FY25|total_revenue,Q2 FY25,plan_vs_actual,total_revenue,total,usd_m,3828.5,3963.0,134.5,3.513125,up,True,False,False,above,
+plan_vs_actual|Q2 FY25|gaap_operating_income,Q2 FY25,plan_vs_actual,gaap_operating_income,total,usd_m,347.0,593.0,246.0,70.893372,up,True,True,True,above,
+plan_vs_actual|Q2 FY25|gaap_diluted_eps,Q2 FY25,plan_vs_actual,gaap_diluted_eps,total,usd_per_share,0.87,1.67,0.8,91.954023,up,True,True,True,above,
+plan_vs_actual|Q3 FY25|total_revenue,Q3 FY25,plan_vs_actual,total_revenue,total,usd_m,7575.0,7754.0,179.0,2.363036,up,True,False,False,above,
+plan_vs_actual|Q3 FY25|gaap_operating_income,Q3 FY25,plan_vs_actual,gaap_operating_income,total,usd_m,3466.0,3720.0,254.0,7.328332,up,True,True,True,above,
+plan_vs_actual|Q3 FY25|gaap_diluted_eps,Q3 FY25,plan_vs_actual,gaap_diluted_eps,total,usd_per_share,9.25,10.02,0.77,8.324324,up,True,True,True,above,
+plan_vs_actual|Q4 FY25|total_revenue,Q4 FY25,plan_vs_actual,total_revenue,total,usd_m,3741.5,3831.0,89.5,2.392089,up,True,False,False,above,
+plan_vs_actual|Q4 FY25|gaap_operating_income,Q4 FY25,plan_vs_actual,gaap_operating_income,total,usd_m,324.0,339.0,15.0,4.62963,up,True,False,False,above,
+plan_vs_actual|Q4 FY25|gaap_diluted_eps,Q4 FY25,plan_vs_actual,gaap_diluted_eps,total,usd_per_share,0.865,1.35,0.485,56.069364,up,True,True,True,above,
+plan_vs_actual|Q1 FY26|total_revenue,Q1 FY26,plan_vs_actual,total_revenue,total,usd_m,3760.0,3885.0,125.0,3.324468,up,True,False,False,above,
+plan_vs_actual|Q1 FY26|gaap_operating_income,Q1 FY26,plan_vs_actual,gaap_operating_income,total,usd_m,450.0,534.0,84.0,18.666667,up,True,True,True,above,
+plan_vs_actual|Q1 FY26|gaap_diluted_eps,Q1 FY26,plan_vs_actual,gaap_diluted_eps,total,usd_per_share,1.225,1.59,0.365,29.795918,up,True,True,True,above,
+plan_vs_actual|Q2 FY26|total_revenue,Q2 FY26,plan_vs_actual,total_revenue,total,usd_m,4534.0,4651.0,117.0,2.580503,up,True,False,False,above,
+plan_vs_actual|Q2 FY26|gaap_operating_income,Q2 FY26,plan_vs_actual,gaap_operating_income,total,usd_m,683.5,855.0,171.5,25.091441,up,True,True,True,above,
+plan_vs_actual|Q2 FY26|gaap_diluted_eps,Q2 FY26,plan_vs_actual,gaap_diluted_eps,total,usd_per_share,1.785,2.48,0.695,38.935574,up,True,True,True,above,
+plan_vs_actual|Q3 FY26|total_revenue,Q3 FY26,plan_vs_actual,total_revenue,total,usd_m,8536.5,8558.0,21.5,0.25186,up,True,False,False,above,
+plan_vs_actual|Q3 FY26|gaap_operating_income,Q3 FY26,plan_vs_actual,gaap_operating_income,total,usd_m,3938.0,4020.0,82.0,2.082275,up,True,False,False,above,
+plan_vs_actual|Q3 FY26|gaap_diluted_eps,Q3 FY26,plan_vs_actual,gaap_diluted_eps,total,usd_per_share,10.59,11.09,0.5,4.721435,up,True,False,False,above,
+plan_vs_actual|Q4 FY26|total_revenue,Q4 FY26,plan_vs_actual,total_revenue,total,usd_m,4263.5,4354.0,90.5,2.122669,up,True,False,False,above,
+plan_vs_actual|Q4 FY26|gaap_operating_income,Q4 FY26,plan_vs_actual,gaap_operating_income,total,usd_m,306.0,475.0,169.0,55.228758,up,True,True,True,above,
+plan_vs_actual|Q4 FY26|gaap_diluted_eps,Q4 FY26,plan_vs_actual,gaap_diluted_eps,total,usd_per_share,0.76,1.34,0.58,76.315789,up,True,True,True,above,
+budget_vs_actual|FY26|total_revenue,FY26,budget_vs_actual,total_revenue,total,usd_m,21091.5,21448.0,356.5,1.690254,up,True,False,False,above,
+budget_vs_actual|FY26|gaap_operating_income,FY26,budget_vs_actual,gaap_operating_income,total,usd_m,5820.5,5884.0,63.5,1.090972,up,True,False,False,above,
+budget_vs_actual|FY26|gaap_diluted_eps,FY26,budget_vs_actual,gaap_diluted_eps,total,usd_per_share,15.59,16.46,0.87,5.5805,up,True,True,True,above,
+reforecast_vs_actual|FY26|total_revenue,FY26,reforecast_vs_actual,total_revenue,total,usd_m,21357.5,21448.0,90.5,0.423739,up,True,False,False,above,
+reforecast_vs_actual|FY26|gaap_operating_income,FY26,reforecast_vs_actual,gaap_operating_income,total,usd_m,5715.0,5884.0,169.0,2.95713,up,True,False,False,above,
+reforecast_vs_actual|FY26|gaap_diluted_eps,FY26,reforecast_vs_actual,gaap_diluted_eps,total,usd_per_share,15.815,16.46,0.645,4.078407,up,True,False,False,above,
+budget_vs_actual|FY26|gbs_revenue,FY26,budget_vs_actual,gbs_revenue,segment,usd_m,12683.165,12864.0,180.835,1.425788,up,True,False,False,above,
+budget_vs_actual|FY26|consumer_revenue,FY26,budget_vs_actual,consumer_revenue,segment,usd_m,8413.09,8584.0,170.91,2.031477,up,True,False,False,above,
+reforecast_vs_actual|FY26|gbs_revenue,FY26,reforecast_vs_actual,gbs_revenue,segment,usd_m,12849.32,12864.0,14.68,0.114247,up,True,False,False,above,
+reforecast_vs_actual|FY26|consumer_revenue,FY26,reforecast_vs_actual,consumer_revenue,segment,usd_m,8529.4,8584.0,54.6,0.640139,up,True,False,False,above,
+budget_vs_reforecast|FY26|total_revenue,FY26,budget_vs_reforecast,total_revenue,total,usd_m,21091.5,21357.5,266.0,1.261172,up,True,False,False,,
+budget_vs_reforecast|FY26|gaap_operating_income,FY26,budget_vs_reforecast,gaap_operating_income,total,usd_m,5820.5,5715.0,-105.5,-1.812559,down,False,False,False,,
+budget_vs_reforecast|FY26|gaap_diluted_eps,FY26,budget_vs_reforecast,gaap_diluted_eps,total,usd_per_share,15.59,15.815,0.225,1.443233,up,True,False,False,,
+budget_vs_reforecast|FY26|gbs_revenue,FY26,budget_vs_reforecast,gbs_revenue,segment,usd_m,12683.165,12849.32,166.155,1.310044,up,True,False,False,,
+budget_vs_reforecast|FY26|consumer_revenue,FY26,budget_vs_reforecast,consumer_revenue,segment,usd_m,8413.09,8529.4,116.31,1.382488,up,True,False,False,,
+yoy|Q1 FY26|total_revenue,Q1 FY26,yoy,total_revenue,total,usd_m,3283.0,3885.0,602.0,18.336887,up,True,True,True,,mdna/Q1_FY26.txt
+yoy|Q1 FY26|gbs_revenue,Q1 FY26,yoy,gbs_revenue,segment,usd_m,2544.0,2991.0,447.0,17.570755,up,True,True,True,,mdna/Q1_FY26.txt
+yoy|Q1 FY26|consumer_revenue,Q1 FY26,yoy,consumer_revenue,segment,usd_m,739.0,894.0,155.0,20.97429,up,True,True,True,,mdna/Q1_FY26.txt
+yoy|Q1 FY26|qbo_accounting_revenue,Q1 FY26,yoy,qbo_accounting_revenue,product_line,usd_m,965.0,1206.0,241.0,24.974093,up,True,True,False,,mdna/Q1_FY26.txt
+yoy|Q1 FY26|online_services_revenue,Q1 FY26,yoy,online_services_revenue,product_line,usd_m,978.0,1145.0,167.0,17.075665,up,True,True,False,,mdna/Q1_FY26.txt
+yoy|Q1 FY26|online_ecosystem_revenue,Q1 FY26,yoy,online_ecosystem_revenue,product_line,usd_m,1943.0,2351.0,408.0,20.998456,up,True,True,False,,mdna/Q1_FY26.txt
+yoy|Q1 FY26|qb_desktop_accounting_revenue,Q1 FY26,yoy,qb_desktop_accounting_revenue,product_line,usd_m,329.0,356.0,27.0,8.206687,up,True,False,False,,mdna/Q1_FY26.txt
+yoy|Q1 FY26|desktop_services_supplies_revenue,Q1 FY26,yoy,desktop_services_supplies_revenue,product_line,usd_m,272.0,284.0,12.0,4.411765,up,True,False,False,,mdna/Q1_FY26.txt
+yoy|Q1 FY26|desktop_ecosystem_revenue,Q1 FY26,yoy,desktop_ecosystem_revenue,product_line,usd_m,601.0,640.0,39.0,6.489185,up,True,False,False,,mdna/Q1_FY26.txt
+yoy|Q1 FY26|turbotax_revenue,Q1 FY26,yoy,turbotax_revenue,product_line,usd_m,187.0,198.0,11.0,5.882353,up,True,False,False,,mdna/Q1_FY26.txt
+yoy|Q1 FY26|credit_karma_revenue,Q1 FY26,yoy,credit_karma_revenue,product_line,usd_m,513.0,651.0,138.0,26.900585,up,True,True,False,,mdna/Q1_FY26.txt
+yoy|Q1 FY26|protax_revenue,Q1 FY26,yoy,protax_revenue,product_line,usd_m,39.0,45.0,6.0,15.384615,up,True,False,False,,mdna/Q1_FY26.txt
+yoy|Q1 FY26|gbs_segment_costs,Q1 FY26,yoy,gbs_segment_costs,segment,usd_m,542.0,657.0,115.0,21.217712,up,False,True,True,,mdna/Q1_FY26.txt
+yoy|Q1 FY26|consumer_segment_costs,Q1 FY26,yoy,consumer_segment_costs,segment,usd_m,311.0,310.0,-1.0,-0.321543,down,True,False,False,,mdna/Q1_FY26.txt
+yoy|Q1 FY26|gbs_segment_oi,Q1 FY26,yoy,gbs_segment_oi,segment,usd_m,2002.0,2334.0,332.0,16.583417,up,True,True,True,,mdna/Q1_FY26.txt
+yoy|Q1 FY26|consumer_segment_oi,Q1 FY26,yoy,consumer_segment_oi,segment,usd_m,428.0,584.0,156.0,36.448598,up,True,True,True,,mdna/Q1_FY26.txt
+yoy|Q1 FY26|total_segment_oi,Q1 FY26,yoy,total_segment_oi,segment,usd_m,2430.0,2918.0,488.0,20.082305,up,True,True,True,,mdna/Q1_FY26.txt
+yoy|Q1 FY26|unalloc_share_based_comp,Q1 FY26,yoy,unalloc_share_based_comp,unallocated,usd_m,511.0,543.0,32.0,6.262231,up,False,False,False,,mdna/Q1_FY26.txt
+yoy|Q1 FY26|unalloc_other_corporate,Q1 FY26,yoy,unalloc_other_corporate,unallocated,usd_m,1482.0,1676.0,194.0,13.090418,up,False,True,True,,mdna/Q1_FY26.txt
+yoy|Q1 FY26|unalloc_amort_acquired_tech,Q1 FY26,yoy,unalloc_amort_acquired_tech,unallocated,usd_m,37.0,44.0,7.0,18.918919,up,False,False,False,,mdna/Q1_FY26.txt
+yoy|Q1 FY26|unalloc_amort_other_intangibles,Q1 FY26,yoy,unalloc_amort_other_intangibles,unallocated,usd_m,120.0,121.0,1.0,0.833333,up,False,False,False,,mdna/Q1_FY26.txt
+yoy|Q1 FY26|unalloc_restructuring,Q1 FY26,yoy,unalloc_restructuring,unallocated,usd_m,9.0,0.0,-9.0,-100.0,down,True,False,False,,mdna/Q1_FY26.txt
+yoy|Q1 FY26|unalloc_total,Q1 FY26,yoy,unalloc_total,unallocated,usd_m,2159.0,2384.0,225.0,10.421491,up,False,True,True,,mdna/Q1_FY26.txt
+yoy|Q1 FY26|gaap_operating_income,Q1 FY26,yoy,gaap_operating_income,total,usd_m,271.0,534.0,263.0,97.04797,up,True,True,True,,mdna/Q1_FY26.txt
+yoy|Q1 FY26|cost_of_revenue_service,Q1 FY26,yoy,cost_of_revenue_service,expense_line,usd_m,772.0,824.0,52.0,6.735751,up,False,True,False,,mdna/Q1_FY26.txt
+yoy|Q1 FY26|cost_of_revenue_product,Q1 FY26,yoy,cost_of_revenue_product,expense_line,usd_m,14.0,15.0,1.0,7.142857,up,False,False,False,,mdna/Q1_FY26.txt
+yoy|Q1 FY26|selling_and_marketing,Q1 FY26,yoy,selling_and_marketing,expense_line,usd_m,962.0,1082.0,120.0,12.474012,up,False,True,False,,mdna/Q1_FY26.txt
+yoy|Q1 FY26|research_and_development,Q1 FY26,yoy,research_and_development,expense_line,usd_m,704.0,843.0,139.0,19.744318,up,False,True,False,,mdna/Q1_FY26.txt
+yoy|Q1 FY26|general_and_administrative,Q1 FY26,yoy,general_and_administrative,expense_line,usd_m,394.0,422.0,28.0,7.106599,up,False,False,False,,mdna/Q1_FY26.txt
+yoy|Q1 FY26|gbs_segment_margin,Q1 FY26,yoy,gbs_segment_margin,segment,pct_of_revenue,78.694969,78.034102,-0.660866,,down,False,False,False,,mdna/Q1_FY26.txt
+yoy|Q1 FY26|consumer_segment_margin,Q1 FY26,yoy,consumer_segment_margin,segment,pct_of_revenue,57.916103,65.324385,7.408282,,up,True,True,True,,mdna/Q1_FY26.txt
+yoy|Q1 FY26|gaap_operating_margin,Q1 FY26,yoy,gaap_operating_margin,total,pct_of_revenue,8.254645,13.745174,5.490529,,up,True,True,True,,mdna/Q1_FY26.txt
+yoy|Q1 FY26|gaap_diluted_eps,Q1 FY26,yoy,gaap_diluted_eps,total,usd_per_share,0.7,1.59,0.89,127.142857,up,True,True,True,,mdna/Q1_FY26.txt
+yoy|Q2 FY26|total_revenue,Q2 FY26,yoy,total_revenue,total,usd_m,3963.0,4651.0,688.0,17.360585,up,True,True,True,,mdna/Q2_FY26.txt
+yoy|Q2 FY26|gbs_revenue,Q2 FY26,yoy,gbs_revenue,segment,usd_m,2671.0,3164.0,493.0,18.457507,up,True,True,True,,mdna/Q2_FY26.txt
+yoy|Q2 FY26|consumer_revenue,Q2 FY26,yoy,consumer_revenue,segment,usd_m,1292.0,1487.0,195.0,15.092879,up,True,True,True,,mdna/Q2_FY26.txt
+yoy|Q2 FY26|qbo_accounting_revenue,Q2 FY26,yoy,qbo_accounting_revenue,product_line,usd_m,1008.0,1248.0,240.0,23.809524,up,True,True,False,,mdna/Q2_FY26.txt
+yoy|Q2 FY26|online_services_revenue,Q2 FY26,yoy,online_services_revenue,product_line,usd_m,1030.0,1219.0,189.0,18.349515,up,True,True,False,,mdna/Q2_FY26.txt
+yoy|Q2 FY26|online_ecosystem_revenue,Q2 FY26,yoy,online_ecosystem_revenue,product_line,usd_m,2038.0,2467.0,429.0,21.050049,up,True,True,False,,mdna/Q2_FY26.txt
+yoy|Q2 FY26|qb_desktop_accounting_revenue,Q2 FY26,yoy,qb_desktop_accounting_revenue,product_line,usd_m,355.0,408.0,53.0,14.929577,up,True,True,False,,mdna/Q2_FY26.txt
+yoy|Q2 FY26|desktop_services_supplies_revenue,Q2 FY26,yoy,desktop_services_supplies_revenue,product_line,usd_m,278.0,289.0,11.0,3.956835,up,True,False,False,,mdna/Q2_FY26.txt
+yoy|Q2 FY26|desktop_ecosystem_revenue,Q2 FY26,yoy,desktop_ecosystem_revenue,product_line,usd_m,633.0,697.0,64.0,10.110585,up,True,True,False,,mdna/Q2_FY26.txt
+yoy|Q2 FY26|turbotax_revenue,Q2 FY26,yoy,turbotax_revenue,product_line,usd_m,520.0,581.0,61.0,11.730769,up,True,True,False,,mdna/Q2_FY26.txt
+yoy|Q2 FY26|credit_karma_revenue,Q2 FY26,yoy,credit_karma_revenue,product_line,usd_m,500.0,616.0,116.0,23.2,up,True,True,False,,mdna/Q2_FY26.txt
+yoy|Q2 FY26|protax_revenue,Q2 FY26,yoy,protax_revenue,product_line,usd_m,272.0,290.0,18.0,6.617647,up,True,False,False,,mdna/Q2_FY26.txt
+yoy|Q2 FY26|gbs_segment_costs,Q2 FY26,yoy,gbs_segment_costs,segment,usd_m,619.0,761.0,142.0,22.940226,up,False,True,True,,mdna/Q2_FY26.txt
+yoy|Q2 FY26|consumer_segment_costs,Q2 FY26,yoy,consumer_segment_costs,segment,usd_m,497.0,589.0,92.0,18.511066,up,False,True,True,,mdna/Q2_FY26.txt
+yoy|Q2 FY26|gbs_segment_oi,Q2 FY26,yoy,gbs_segment_oi,segment,usd_m,2052.0,2403.0,351.0,17.105263,up,True,True,True,,mdna/Q2_FY26.txt
+yoy|Q2 FY26|consumer_segment_oi,Q2 FY26,yoy,consumer_segment_oi,segment,usd_m,795.0,898.0,103.0,12.955975,up,True,True,True,,mdna/Q2_FY26.txt
+yoy|Q2 FY26|total_segment_oi,Q2 FY26,yoy,total_segment_oi,segment,usd_m,2847.0,3301.0,454.0,15.94661,up,True,True,True,,mdna/Q2_FY26.txt
+yoy|Q2 FY26|unalloc_share_based_comp,Q2 FY26,yoy,unalloc_share_based_comp,unallocated,usd_m,498.0,521.0,23.0,4.618474,up,False,False,False,,mdna/Q2_FY26.txt
+yoy|Q2 FY26|unalloc_other_corporate,Q2 FY26,yoy,unalloc_other_corporate,unallocated,usd_m,1595.0,1760.0,165.0,10.344828,up,False,True,True,,mdna/Q2_FY26.txt
+yoy|Q2 FY26|unalloc_amort_acquired_tech,Q2 FY26,yoy,unalloc_amort_acquired_tech,unallocated,usd_m,37.0,44.0,7.0,18.918919,up,False,False,False,,mdna/Q2_FY26.txt
+yoy|Q2 FY26|unalloc_amort_other_intangibles,Q2 FY26,yoy,unalloc_amort_other_intangibles,unallocated,usd_m,120.0,121.0,1.0,0.833333,up,False,False,False,,mdna/Q2_FY26.txt
+yoy|Q2 FY26|unalloc_restructuring,Q2 FY26,yoy,unalloc_restructuring,unallocated,usd_m,4.0,0.0,-4.0,-100.0,down,True,False,False,,mdna/Q2_FY26.txt
+yoy|Q2 FY26|unalloc_total,Q2 FY26,yoy,unalloc_total,unallocated,usd_m,2254.0,2446.0,192.0,8.51819,up,False,True,True,,mdna/Q2_FY26.txt
+yoy|Q2 FY26|gaap_operating_income,Q2 FY26,yoy,gaap_operating_income,total,usd_m,593.0,855.0,262.0,44.182125,up,True,True,True,,mdna/Q2_FY26.txt
+yoy|Q2 FY26|cost_of_revenue_service,Q2 FY26,yoy,cost_of_revenue_service,expense_line,usd_m,880.0,981.0,101.0,11.477273,up,False,True,False,,mdna/Q2_FY26.txt
+yoy|Q2 FY26|cost_of_revenue_product,Q2 FY26,yoy,cost_of_revenue_product,expense_line,usd_m,20.0,18.0,-2.0,-10.0,down,True,False,False,,mdna/Q2_FY26.txt
+yoy|Q2 FY26|selling_and_marketing,Q2 FY26,yoy,selling_and_marketing,expense_line,usd_m,1204.0,1395.0,191.0,15.863787,up,False,True,False,,mdna/Q2_FY26.txt
+yoy|Q2 FY26|research_and_development,Q2 FY26,yoy,research_and_development,expense_line,usd_m,716.0,836.0,120.0,16.759777,up,False,True,False,,mdna/Q2_FY26.txt
+yoy|Q2 FY26|general_and_administrative,Q2 FY26,yoy,general_and_administrative,expense_line,usd_m,389.0,401.0,12.0,3.084833,up,False,False,False,,mdna/Q2_FY26.txt
+yoy|Q2 FY26|gbs_segment_margin,Q2 FY26,yoy,gbs_segment_margin,segment,pct_of_revenue,76.825159,75.948167,-0.876992,,down,False,False,False,,mdna/Q2_FY26.txt
+yoy|Q2 FY26|consumer_segment_margin,Q2 FY26,yoy,consumer_segment_margin,segment,pct_of_revenue,61.532508,60.390047,-1.142461,,down,False,True,True,,mdna/Q2_FY26.txt
+yoy|Q2 FY26|gaap_operating_margin,Q2 FY26,yoy,gaap_operating_margin,total,pct_of_revenue,14.963412,18.383143,3.419732,,up,True,True,True,,mdna/Q2_FY26.txt
+yoy|Q2 FY26|gaap_diluted_eps,Q2 FY26,yoy,gaap_diluted_eps,total,usd_per_share,1.67,2.48,0.81,48.502994,up,True,True,True,,mdna/Q2_FY26.txt
+yoy|Q3 FY26|total_revenue,Q3 FY26,yoy,total_revenue,total,usd_m,7754.0,8558.0,804.0,10.368842,up,True,True,True,,mdna/Q3_FY26.txt
+yoy|Q3 FY26|gbs_revenue,Q3 FY26,yoy,gbs_revenue,segment,usd_m,2849.0,3285.0,436.0,15.303615,up,True,True,True,,mdna/Q3_FY26.txt
+yoy|Q3 FY26|consumer_revenue,Q3 FY26,yoy,consumer_revenue,segment,usd_m,4905.0,5273.0,368.0,7.502548,up,True,True,True,,mdna/Q3_FY26.txt
+yoy|Q3 FY26|qbo_accounting_revenue,Q3 FY26,yoy,qbo_accounting_revenue,product_line,usd_m,1044.0,1278.0,234.0,22.413793,up,True,True,False,,mdna/Q3_FY26.txt
+yoy|Q3 FY26|online_services_revenue,Q3 FY26,yoy,online_services_revenue,product_line,usd_m,1059.0,1219.0,160.0,15.108593,up,True,True,False,,mdna/Q3_FY26.txt
+yoy|Q3 FY26|online_ecosystem_revenue,Q3 FY26,yoy,online_ecosystem_revenue,product_line,usd_m,2103.0,2497.0,394.0,18.73514,up,True,True,False,,mdna/Q3_FY26.txt
+yoy|Q3 FY26|qb_desktop_accounting_revenue,Q3 FY26,yoy,qb_desktop_accounting_revenue,product_line,usd_m,476.0,507.0,31.0,6.512605,up,True,False,False,,mdna/Q3_FY26.txt
+yoy|Q3 FY26|desktop_services_supplies_revenue,Q3 FY26,yoy,desktop_services_supplies_revenue,product_line,usd_m,270.0,281.0,11.0,4.074074,up,True,False,False,,mdna/Q3_FY26.txt
+yoy|Q3 FY26|desktop_ecosystem_revenue,Q3 FY26,yoy,desktop_ecosystem_revenue,product_line,usd_m,746.0,788.0,42.0,5.630027,up,True,False,False,,mdna/Q3_FY26.txt
+yoy|Q3 FY26|turbotax_revenue,Q3 FY26,yoy,turbotax_revenue,product_line,usd_m,4078.0,4364.0,286.0,7.013242,up,True,True,False,,mdna/Q3_FY26.txt
+yoy|Q3 FY26|credit_karma_revenue,Q3 FY26,yoy,credit_karma_revenue,product_line,usd_m,549.0,631.0,82.0,14.936248,up,True,True,False,,mdna/Q3_FY26.txt
+yoy|Q3 FY26|protax_revenue,Q3 FY26,yoy,protax_revenue,product_line,usd_m,278.0,278.0,0.0,0.0,flat,,False,False,,mdna/Q3_FY26.txt
+yoy|Q3 FY26|gbs_segment_costs,Q3 FY26,yoy,gbs_segment_costs,segment,usd_m,660.0,765.0,105.0,15.909091,up,False,True,True,,mdna/Q3_FY26.txt
+yoy|Q3 FY26|consumer_segment_costs,Q3 FY26,yoy,consumer_segment_costs,segment,usd_m,865.0,1010.0,145.0,16.763006,up,False,True,True,,mdna/Q3_FY26.txt
+yoy|Q3 FY26|gbs_segment_oi,Q3 FY26,yoy,gbs_segment_oi,segment,usd_m,2189.0,2520.0,331.0,15.12106,up,True,True,True,,mdna/Q3_FY26.txt
+yoy|Q3 FY26|consumer_segment_oi,Q3 FY26,yoy,consumer_segment_oi,segment,usd_m,4040.0,4263.0,223.0,5.519802,up,True,True,True,,mdna/Q3_FY26.txt
+yoy|Q3 FY26|total_segment_oi,Q3 FY26,yoy,total_segment_oi,segment,usd_m,6229.0,6783.0,554.0,8.893883,up,True,True,True,,mdna/Q3_FY26.txt
+yoy|Q3 FY26|unalloc_share_based_comp,Q3 FY26,yoy,unalloc_share_based_comp,unallocated,usd_m,469.0,485.0,16.0,3.411514,up,False,False,False,,mdna/Q3_FY26.txt
+yoy|Q3 FY26|unalloc_other_corporate,Q3 FY26,yoy,unalloc_other_corporate,unallocated,usd_m,1881.0,2113.0,232.0,12.333865,up,False,True,True,,mdna/Q3_FY26.txt
+yoy|Q3 FY26|unalloc_amort_acquired_tech,Q3 FY26,yoy,unalloc_amort_acquired_tech,unallocated,usd_m,38.0,43.0,5.0,13.157895,up,False,False,False,,mdna/Q3_FY26.txt
+yoy|Q3 FY26|unalloc_amort_other_intangibles,Q3 FY26,yoy,unalloc_amort_other_intangibles,unallocated,usd_m,120.0,122.0,2.0,1.666667,up,False,False,False,,mdna/Q3_FY26.txt
+yoy|Q3 FY26|unalloc_restructuring,Q3 FY26,yoy,unalloc_restructuring,unallocated,usd_m,1.0,0.0,-1.0,-100.0,down,True,False,False,,mdna/Q3_FY26.txt
+yoy|Q3 FY26|unalloc_total,Q3 FY26,yoy,unalloc_total,unallocated,usd_m,2509.0,2763.0,254.0,10.123555,up,False,True,True,,mdna/Q3_FY26.txt
+yoy|Q3 FY26|gaap_operating_income,Q3 FY26,yoy,gaap_operating_income,total,usd_m,3720.0,4020.0,300.0,8.064516,up,True,True,True,,mdna/Q3_FY26.txt
+yoy|Q3 FY26|cost_of_revenue_service,Q3 FY26,yoy,cost_of_revenue_service,expense_line,usd_m,1138.0,1317.0,179.0,15.72935,up,False,True,False,,mdna/Q3_FY26.txt
+yoy|Q3 FY26|cost_of_revenue_product,Q3 FY26,yoy,cost_of_revenue_product,expense_line,usd_m,18.0,14.0,-4.0,-22.222222,down,True,False,False,,mdna/Q3_FY26.txt
+yoy|Q3 FY26|selling_and_marketing,Q3 FY26,yoy,selling_and_marketing,expense_line,usd_m,1618.0,1793.0,175.0,10.815822,up,False,True,False,,mdna/Q3_FY26.txt
+yoy|Q3 FY26|research_and_development,Q3 FY26,yoy,research_and_development,expense_line,usd_m,707.0,840.0,133.0,18.811881,up,False,True,False,,mdna/Q3_FY26.txt
+yoy|Q3 FY26|general_and_administrative,Q3 FY26,yoy,general_and_administrative,expense_line,usd_m,394.0,409.0,15.0,3.807107,up,False,False,False,,mdna/Q3_FY26.txt
+yoy|Q3 FY26|gbs_segment_margin,Q3 FY26,yoy,gbs_segment_margin,segment,pct_of_revenue,76.833977,76.712329,-0.121648,,down,False,False,False,,mdna/Q3_FY26.txt
+yoy|Q3 FY26|consumer_segment_margin,Q3 FY26,yoy,consumer_segment_margin,segment,pct_of_revenue,82.364934,80.845818,-1.519115,,down,False,True,True,,mdna/Q3_FY26.txt
+yoy|Q3 FY26|gaap_operating_margin,Q3 FY26,yoy,gaap_operating_margin,total,pct_of_revenue,47.975239,46.973592,-1.001647,,down,False,True,True,,mdna/Q3_FY26.txt
+yoy|Q3 FY26|gaap_diluted_eps,Q3 FY26,yoy,gaap_diluted_eps,total,usd_per_share,10.02,11.09,1.07,10.678643,up,True,True,True,,mdna/Q3_FY26.txt
+yoy|Q4 FY26|total_revenue,Q4 FY26,yoy,total_revenue,total,usd_m,3831.0,4354.0,523.0,13.651788,up,True,True,True,,releases/Q4_FY26.txt
+yoy|Q4 FY26|gbs_revenue,Q4 FY26,yoy,gbs_revenue,segment,usd_m,3013.0,3424.0,411.0,13.640889,up,True,True,True,,releases/Q4_FY26.txt
+yoy|Q4 FY26|consumer_revenue,Q4 FY26,yoy,consumer_revenue,segment,usd_m,818.0,930.0,112.0,13.691932,up,True,True,True,,releases/Q4_FY26.txt
+yoy|Q4 FY26|qbo_accounting_revenue,Q4 FY26,yoy,qbo_accounting_revenue,product_line,usd_m,1103.0,1319.0,216.0,19.582956,up,True,True,False,,releases/Q4_FY26.txt
+yoy|Q4 FY26|online_services_revenue,Q4 FY26,yoy,online_services_revenue,product_line,usd_m,1115.0,1284.0,169.0,15.156951,up,True,True,False,,releases/Q4_FY26.txt
+yoy|Q4 FY26|online_ecosystem_revenue,Q4 FY26,yoy,online_ecosystem_revenue,product_line,usd_m,2218.0,2603.0,385.0,17.35798,up,True,True,False,,releases/Q4_FY26.txt
+yoy|Q4 FY26|qb_desktop_accounting_revenue,Q4 FY26,yoy,qb_desktop_accounting_revenue,product_line,usd_m,512.0,530.0,18.0,3.515625,up,True,False,False,,releases/Q4_FY26.txt
+yoy|Q4 FY26|desktop_services_supplies_revenue,Q4 FY26,yoy,desktop_services_supplies_revenue,product_line,usd_m,283.0,291.0,8.0,2.826855,up,True,False,False,,releases/Q4_FY26.txt
+yoy|Q4 FY26|desktop_ecosystem_revenue,Q4 FY26,yoy,desktop_ecosystem_revenue,product_line,usd_m,795.0,821.0,26.0,3.27044,up,True,False,False,,releases/Q4_FY26.txt
+yoy|Q4 FY26|turbotax_revenue,Q4 FY26,yoy,turbotax_revenue,product_line,usd_m,148.0,153.0,5.0,3.378378,up,True,False,False,,releases/Q4_FY26.txt
+yoy|Q4 FY26|credit_karma_revenue,Q4 FY26,yoy,credit_karma_revenue,product_line,usd_m,638.0,743.0,105.0,16.45768,up,True,True,False,,releases/Q4_FY26.txt
+yoy|Q4 FY26|protax_revenue,Q4 FY26,yoy,protax_revenue,product_line,usd_m,32.0,34.0,2.0,6.25,up,True,False,False,,releases/Q4_FY26.txt
+yoy|Q4 FY26|gbs_segment_costs,Q4 FY26,yoy,gbs_segment_costs,segment,usd_m,780.0,794.0,14.0,1.794872,up,False,False,False,,releases/Q4_FY26.txt
+yoy|Q4 FY26|consumer_segment_costs,Q4 FY26,yoy,consumer_segment_costs,segment,usd_m,321.0,367.0,46.0,14.330218,up,False,False,False,,releases/Q4_FY26.txt
+yoy|Q4 FY26|gbs_segment_oi,Q4 FY26,yoy,gbs_segment_oi,segment,usd_m,2233.0,2630.0,397.0,17.778773,up,True,True,True,,releases/Q4_FY26.txt
+yoy|Q4 FY26|consumer_segment_oi,Q4 FY26,yoy,consumer_segment_oi,segment,usd_m,497.0,563.0,66.0,13.279678,up,True,True,True,,releases/Q4_FY26.txt
+yoy|Q4 FY26|total_segment_oi,Q4 FY26,yoy,total_segment_oi,segment,usd_m,2730.0,3193.0,463.0,16.959707,up,True,True,True,,releases/Q4_FY26.txt
+yoy|Q4 FY26|unalloc_share_based_comp,Q4 FY26,yoy,unalloc_share_based_comp,unallocated,usd_m,490.0,507.0,17.0,3.469388,up,False,False,False,,releases/Q4_FY26.txt
+yoy|Q4 FY26|unalloc_other_corporate,Q4 FY26,yoy,unalloc_other_corporate,unallocated,usd_m,1735.0,1754.0,19.0,1.095101,up,False,False,False,,releases/Q4_FY26.txt
+yoy|Q4 FY26|unalloc_amort_acquired_tech,Q4 FY26,yoy,unalloc_amort_acquired_tech,unallocated,usd_m,44.0,43.0,-1.0,-2.272727,down,True,False,False,,releases/Q4_FY26.txt
+yoy|Q4 FY26|unalloc_amort_other_intangibles,Q4 FY26,yoy,unalloc_amort_other_intangibles,unallocated,usd_m,121.0,121.0,0.0,0.0,flat,,False,False,,releases/Q4_FY26.txt
+yoy|Q4 FY26|unalloc_restructuring,Q4 FY26,yoy,unalloc_restructuring,unallocated,usd_m,1.0,293.0,292.0,29200.0,up,False,True,True,,releases/Q4_FY26.txt
+yoy|Q4 FY26|unalloc_total,Q4 FY26,yoy,unalloc_total,unallocated,usd_m,2391.0,2718.0,327.0,13.676286,up,False,True,True,,releases/Q4_FY26.txt
+yoy|Q4 FY26|gaap_operating_income,Q4 FY26,yoy,gaap_operating_income,total,usd_m,339.0,475.0,136.0,40.117994,up,True,True,True,,releases/Q4_FY26.txt
+yoy|Q4 FY26|cost_of_revenue_service,Q4 FY26,yoy,cost_of_revenue_service,expense_line,usd_m,834.0,894.0,60.0,7.194245,up,False,True,False,,releases/Q4_FY26.txt
+yoy|Q4 FY26|cost_of_revenue_product,Q4 FY26,yoy,cost_of_revenue_product,expense_line,usd_m,16.0,16.0,0.0,0.0,flat,,False,False,,releases/Q4_FY26.txt
+yoy|Q4 FY26|selling_and_marketing,Q4 FY26,yoy,selling_and_marketing,expense_line,usd_m,1251.0,1264.0,13.0,1.039169,up,False,False,False,,releases/Q4_FY26.txt
+yoy|Q4 FY26|research_and_development,Q4 FY26,yoy,research_and_development,expense_line,usd_m,801.0,857.0,56.0,6.991261,up,False,True,False,,releases/Q4_FY26.txt
+yoy|Q4 FY26|general_and_administrative,Q4 FY26,yoy,general_and_administrative,expense_line,usd_m,424.0,391.0,-33.0,-7.783019,down,True,False,False,,releases/Q4_FY26.txt
+yoy|Q4 FY26|gbs_segment_margin,Q4 FY26,yoy,gbs_segment_margin,segment,pct_of_revenue,74.112181,76.810748,2.698567,,up,True,True,True,,releases/Q4_FY26.txt
+yoy|Q4 FY26|consumer_segment_margin,Q4 FY26,yoy,consumer_segment_margin,segment,pct_of_revenue,60.757946,60.537634,-0.220312,,down,False,False,False,,releases/Q4_FY26.txt
+yoy|Q4 FY26|gaap_operating_margin,Q4 FY26,yoy,gaap_operating_margin,total,pct_of_revenue,8.848865,10.909508,2.060644,,up,True,True,True,,releases/Q4_FY26.txt
+yoy|Q4 FY26|gaap_diluted_eps,Q4 FY26,yoy,gaap_diluted_eps,total,usd_per_share,1.35,1.34,-0.01,-0.740741,down,False,False,False,,releases/Q4_FY26.txt

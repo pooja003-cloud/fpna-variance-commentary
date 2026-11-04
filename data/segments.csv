@@ -1,0 +1,241 @@
+period,metric,value_usd_m,basis,source,verified
+Q1 FY25,total_revenue,3283,reported 3M,10q_Q1FY26 0000896878-25-000048 us-gaap:Revenues 2024-08-01..2024-10-31,yes
+Q1 FY25,gbs_revenue,2544,reported 3M,10q_Q1FY26 0000896878-25-000048 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2024-08-01..2024-10-31,yes
+Q1 FY25,consumer_revenue,739,reported 3M,10q_Q1FY26 0000896878-25-000048 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2024-08-01..2024-10-31,yes
+Q1 FY25,qbo_accounting_revenue,965,reported 3M,10q_Q1FY26 0000896878-25-000048 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2024-08-01..2024-10-31,yes
+Q1 FY25,online_services_revenue,978,reported 3M,10q_Q1FY26 0000896878-25-000048 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2024-08-01..2024-10-31,yes
+Q1 FY25,online_ecosystem_revenue,1943,reported 3M,10q_Q1FY26 0000896878-25-000048 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2024-08-01..2024-10-31,yes
+Q1 FY25,qb_desktop_accounting_revenue,329,reported 3M,10q_Q1FY26 0000896878-25-000048 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2024-08-01..2024-10-31,yes
+Q1 FY25,desktop_services_supplies_revenue,272,reported 3M,10q_Q1FY26 0000896878-25-000048 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2024-08-01..2024-10-31,yes
+Q1 FY25,desktop_ecosystem_revenue,601,reported 3M,10q_Q1FY26 0000896878-25-000048 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2024-08-01..2024-10-31,yes
+Q1 FY25,turbotax_revenue,187,reported 3M,10q_Q1FY26 0000896878-25-000048 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2024-08-01..2024-10-31,yes
+Q1 FY25,credit_karma_revenue,513,reported 3M,10q_Q1FY26 0000896878-25-000048 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2024-08-01..2024-10-31,yes
+Q1 FY25,protax_revenue,39,reported 3M,10q_Q1FY26 0000896878-25-000048 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2024-08-01..2024-10-31,yes
+Q1 FY25,gbs_segment_costs,542,reported 3M,10q_Q1FY26 0000896878-25-000048 us-gaap:CostsAndExpenses 2024-08-01..2024-10-31,yes
+Q1 FY25,consumer_segment_costs,311,reported 3M,10q_Q1FY26 0000896878-25-000048 us-gaap:CostsAndExpenses 2024-08-01..2024-10-31,yes
+Q1 FY25,gbs_segment_oi,2002,reported 3M,10q_Q1FY26 0000896878-25-000048 us-gaap:OperatingIncomeLoss 2024-08-01..2024-10-31,yes
+Q1 FY25,consumer_segment_oi,428,reported 3M,10q_Q1FY26 0000896878-25-000048 us-gaap:OperatingIncomeLoss 2024-08-01..2024-10-31,yes
+Q1 FY25,total_segment_oi,2430,reported 3M,10q_Q1FY26 0000896878-25-000048 us-gaap:OperatingIncomeLoss 2024-08-01..2024-10-31,yes
+Q1 FY25,unalloc_share_based_comp,511,reported 3M,10q_Q1FY26 0000896878-25-000048 us-gaap:AllocatedShareBasedCompensationExpense 2024-08-01..2024-10-31,yes
+Q1 FY25,unalloc_other_corporate,1482,reported 3M,10q_Q1FY26 0000896878-25-000048 us-gaap:OtherExpenses 2024-08-01..2024-10-31,yes
+Q1 FY25,unalloc_amort_acquired_tech,37,reported 3M,10q_Q1FY26 0000896878-25-000048 us-gaap:CostOfGoodsAndServicesSoldAmortization 2024-08-01..2024-10-31,yes
+Q1 FY25,unalloc_amort_other_intangibles,120,reported 3M,10q_Q1FY26 0000896878-25-000048 us-gaap:AmortizationOfIntangibleAssets 2024-08-01..2024-10-31,yes
+Q1 FY25,unalloc_restructuring,9,reported 3M,10q_Q1FY26 0000896878-25-000048 us-gaap:RestructuringCharges 2024-08-01..2024-10-31,yes
+Q1 FY25,unalloc_total,2159,reported 3M,10q_Q1FY26 0000896878-25-000048 intu:UnallocatedCorporateItemsTotal 2024-08-01..2024-10-31,yes
+Q1 FY25,gaap_operating_income,271,reported 3M,10q_Q1FY26 0000896878-25-000048 us-gaap:OperatingIncomeLoss 2024-08-01..2024-10-31,yes
+Q1 FY25,cost_of_revenue_service,772,reported 3M,10q_Q1FY26 0000896878-25-000048 us-gaap:CostOfGoodsAndServicesSold 2024-08-01..2024-10-31,yes
+Q1 FY25,cost_of_revenue_product,14,reported 3M,10q_Q1FY26 0000896878-25-000048 us-gaap:CostOfGoodsAndServicesSold 2024-08-01..2024-10-31,yes
+Q1 FY25,selling_and_marketing,962,reported 3M,10q_Q1FY26 0000896878-25-000048 us-gaap:SellingAndMarketingExpense 2024-08-01..2024-10-31,yes
+Q1 FY25,research_and_development,704,reported 3M,10q_Q1FY26 0000896878-25-000048 us-gaap:ResearchAndDevelopmentExpense 2024-08-01..2024-10-31,yes
+Q1 FY25,general_and_administrative,394,reported 3M,10q_Q1FY26 0000896878-25-000048 us-gaap:GeneralAndAdministrativeExpense 2024-08-01..2024-10-31,yes
+Q1 FY25,total_costs_and_expenses,3012,reported 3M,10q_Q1FY26 0000896878-25-000048 us-gaap:CostsAndExpenses 2024-08-01..2024-10-31,yes
+Q2 FY25,total_revenue,3963,reported 3M,10q_Q2FY26 0000896878-26-000014 us-gaap:Revenues 2024-11-01..2025-01-31,yes
+Q2 FY25,gbs_revenue,2671,reported 3M,10q_Q2FY26 0000896878-26-000014 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2024-11-01..2025-01-31,yes
+Q2 FY25,consumer_revenue,1292,reported 3M,10q_Q2FY26 0000896878-26-000014 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2024-11-01..2025-01-31,yes
+Q2 FY25,qbo_accounting_revenue,1008,reported 3M,10q_Q2FY26 0000896878-26-000014 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2024-11-01..2025-01-31,yes
+Q2 FY25,online_services_revenue,1030,reported 3M,10q_Q2FY26 0000896878-26-000014 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2024-11-01..2025-01-31,yes
+Q2 FY25,online_ecosystem_revenue,2038,reported 3M,10q_Q2FY26 0000896878-26-000014 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2024-11-01..2025-01-31,yes
+Q2 FY25,qb_desktop_accounting_revenue,355,reported 3M,10q_Q2FY26 0000896878-26-000014 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2024-11-01..2025-01-31,yes
+Q2 FY25,desktop_services_supplies_revenue,278,reported 3M,10q_Q2FY26 0000896878-26-000014 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2024-11-01..2025-01-31,yes
+Q2 FY25,desktop_ecosystem_revenue,633,reported 3M,10q_Q2FY26 0000896878-26-000014 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2024-11-01..2025-01-31,yes
+Q2 FY25,turbotax_revenue,520,reported 3M,10q_Q2FY26 0000896878-26-000014 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2024-11-01..2025-01-31,yes
+Q2 FY25,credit_karma_revenue,500,reported 3M,10q_Q2FY26 0000896878-26-000014 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2024-11-01..2025-01-31,yes
+Q2 FY25,protax_revenue,272,reported 3M,10q_Q2FY26 0000896878-26-000014 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2024-11-01..2025-01-31,yes
+Q2 FY25,gbs_segment_costs,619,reported 3M,10q_Q2FY26 0000896878-26-000014 us-gaap:CostsAndExpenses 2024-11-01..2025-01-31,yes
+Q2 FY25,consumer_segment_costs,497,reported 3M,10q_Q2FY26 0000896878-26-000014 us-gaap:CostsAndExpenses 2024-11-01..2025-01-31,yes
+Q2 FY25,gbs_segment_oi,2052,reported 3M,10q_Q2FY26 0000896878-26-000014 us-gaap:OperatingIncomeLoss 2024-11-01..2025-01-31,yes
+Q2 FY25,consumer_segment_oi,795,reported 3M,10q_Q2FY26 0000896878-26-000014 us-gaap:OperatingIncomeLoss 2024-11-01..2025-01-31,yes
+Q2 FY25,total_segment_oi,2847,reported 3M,10q_Q2FY26 0000896878-26-000014 us-gaap:OperatingIncomeLoss 2024-11-01..2025-01-31,yes
+Q2 FY25,unalloc_share_based_comp,498,reported 3M,10q_Q2FY26 0000896878-26-000014 us-gaap:AllocatedShareBasedCompensationExpense 2024-11-01..2025-01-31,yes
+Q2 FY25,unalloc_other_corporate,1595,reported 3M,10q_Q2FY26 0000896878-26-000014 us-gaap:OtherExpenses 2024-11-01..2025-01-31,yes
+Q2 FY25,unalloc_amort_acquired_tech,37,reported 3M,10q_Q2FY26 0000896878-26-000014 us-gaap:CostOfGoodsAndServicesSoldAmortization 2024-11-01..2025-01-31,yes
+Q2 FY25,unalloc_amort_other_intangibles,120,reported 3M,10q_Q2FY26 0000896878-26-000014 us-gaap:AmortizationOfIntangibleAssets 2024-11-01..2025-01-31,yes
+Q2 FY25,unalloc_restructuring,4,reported 3M,10q_Q2FY26 0000896878-26-000014 us-gaap:RestructuringCharges 2024-11-01..2025-01-31,yes
+Q2 FY25,unalloc_total,2254,reported 3M,10q_Q2FY26 0000896878-26-000014 intu:UnallocatedCorporateItemsTotal 2024-11-01..2025-01-31,yes
+Q2 FY25,gaap_operating_income,593,reported 3M,10q_Q2FY26 0000896878-26-000014 us-gaap:OperatingIncomeLoss 2024-11-01..2025-01-31,yes
+Q2 FY25,cost_of_revenue_service,880,reported 3M,10q_Q2FY26 0000896878-26-000014 us-gaap:CostOfGoodsAndServicesSold 2024-11-01..2025-01-31,yes
+Q2 FY25,cost_of_revenue_product,20,reported 3M,10q_Q2FY26 0000896878-26-000014 us-gaap:CostOfGoodsAndServicesSold 2024-11-01..2025-01-31,yes
+Q2 FY25,selling_and_marketing,1204,reported 3M,10q_Q2FY26 0000896878-26-000014 us-gaap:SellingAndMarketingExpense 2024-11-01..2025-01-31,yes
+Q2 FY25,research_and_development,716,reported 3M,10q_Q2FY26 0000896878-26-000014 us-gaap:ResearchAndDevelopmentExpense 2024-11-01..2025-01-31,yes
+Q2 FY25,general_and_administrative,389,reported 3M,10q_Q2FY26 0000896878-26-000014 us-gaap:GeneralAndAdministrativeExpense 2024-11-01..2025-01-31,yes
+Q2 FY25,total_costs_and_expenses,3370,reported 3M,10q_Q2FY26 0000896878-26-000014 us-gaap:CostsAndExpenses 2024-11-01..2025-01-31,yes
+Q3 FY25,total_revenue,7754,reported 3M,10q_Q3FY26 0000896878-26-000025 us-gaap:Revenues 2025-02-01..2025-04-30,yes
+Q3 FY25,gbs_revenue,2849,reported 3M,10q_Q3FY26 0000896878-26-000025 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2025-02-01..2025-04-30,yes
+Q3 FY25,consumer_revenue,4905,reported 3M,10q_Q3FY26 0000896878-26-000025 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2025-02-01..2025-04-30,yes
+Q3 FY25,qbo_accounting_revenue,1044,reported 3M,10q_Q3FY26 0000896878-26-000025 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2025-02-01..2025-04-30,yes
+Q3 FY25,online_services_revenue,1059,reported 3M,10q_Q3FY26 0000896878-26-000025 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2025-02-01..2025-04-30,yes
+Q3 FY25,online_ecosystem_revenue,2103,reported 3M,10q_Q3FY26 0000896878-26-000025 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2025-02-01..2025-04-30,yes
+Q3 FY25,qb_desktop_accounting_revenue,476,reported 3M,10q_Q3FY26 0000896878-26-000025 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2025-02-01..2025-04-30,yes
+Q3 FY25,desktop_services_supplies_revenue,270,reported 3M,10q_Q3FY26 0000896878-26-000025 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2025-02-01..2025-04-30,yes
+Q3 FY25,desktop_ecosystem_revenue,746,reported 3M,10q_Q3FY26 0000896878-26-000025 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2025-02-01..2025-04-30,yes
+Q3 FY25,turbotax_revenue,4078,reported 3M,10q_Q3FY26 0000896878-26-000025 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2025-02-01..2025-04-30,yes
+Q3 FY25,credit_karma_revenue,549,reported 3M,10q_Q3FY26 0000896878-26-000025 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2025-02-01..2025-04-30,yes
+Q3 FY25,protax_revenue,278,reported 3M,10q_Q3FY26 0000896878-26-000025 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2025-02-01..2025-04-30,yes
+Q3 FY25,gbs_segment_costs,660,reported 3M,10q_Q3FY26 0000896878-26-000025 us-gaap:CostsAndExpenses 2025-02-01..2025-04-30,yes
+Q3 FY25,consumer_segment_costs,865,reported 3M,10q_Q3FY26 0000896878-26-000025 us-gaap:CostsAndExpenses 2025-02-01..2025-04-30,yes
+Q3 FY25,gbs_segment_oi,2189,reported 3M,10q_Q3FY26 0000896878-26-000025 us-gaap:OperatingIncomeLoss 2025-02-01..2025-04-30,yes
+Q3 FY25,consumer_segment_oi,4040,reported 3M,10q_Q3FY26 0000896878-26-000025 us-gaap:OperatingIncomeLoss 2025-02-01..2025-04-30,yes
+Q3 FY25,total_segment_oi,6229,reported 3M,10q_Q3FY26 0000896878-26-000025 us-gaap:OperatingIncomeLoss 2025-02-01..2025-04-30,yes
+Q3 FY25,unalloc_share_based_comp,469,reported 3M,10q_Q3FY26 0000896878-26-000025 us-gaap:AllocatedShareBasedCompensationExpense 2025-02-01..2025-04-30,yes
+Q3 FY25,unalloc_other_corporate,1881,reported 3M,10q_Q3FY26 0000896878-26-000025 us-gaap:OtherExpenses 2025-02-01..2025-04-30,yes
+Q3 FY25,unalloc_amort_acquired_tech,38,reported 3M,10q_Q3FY26 0000896878-26-000025 us-gaap:CostOfGoodsAndServicesSoldAmortization 2025-02-01..2025-04-30,yes
+Q3 FY25,unalloc_amort_other_intangibles,120,reported 3M,10q_Q3FY26 0000896878-26-000025 us-gaap:AmortizationOfIntangibleAssets 2025-02-01..2025-04-30,yes
+Q3 FY25,unalloc_restructuring,1,reported 3M,10q_Q3FY26 0000896878-26-000025 us-gaap:RestructuringCharges 2025-02-01..2025-04-30,yes
+Q3 FY25,unalloc_total,2509,reported 3M,10q_Q3FY26 0000896878-26-000025 intu:UnallocatedCorporateItemsTotal 2025-02-01..2025-04-30,yes
+Q3 FY25,gaap_operating_income,3720,reported 3M,10q_Q3FY26 0000896878-26-000025 us-gaap:OperatingIncomeLoss 2025-02-01..2025-04-30,yes
+Q3 FY25,cost_of_revenue_service,1138,reported 3M,10q_Q3FY26 0000896878-26-000025 us-gaap:CostOfGoodsAndServicesSold 2025-02-01..2025-04-30,yes
+Q3 FY25,cost_of_revenue_product,18,reported 3M,10q_Q3FY26 0000896878-26-000025 us-gaap:CostOfGoodsAndServicesSold 2025-02-01..2025-04-30,yes
+Q3 FY25,selling_and_marketing,1618,reported 3M,10q_Q3FY26 0000896878-26-000025 us-gaap:SellingAndMarketingExpense 2025-02-01..2025-04-30,yes
+Q3 FY25,research_and_development,707,reported 3M,10q_Q3FY26 0000896878-26-000025 us-gaap:ResearchAndDevelopmentExpense 2025-02-01..2025-04-30,yes
+Q3 FY25,general_and_administrative,394,reported 3M,10q_Q3FY26 0000896878-26-000025 us-gaap:GeneralAndAdministrativeExpense 2025-02-01..2025-04-30,yes
+Q3 FY25,total_costs_and_expenses,4034,reported 3M,10q_Q3FY26 0000896878-26-000025 us-gaap:CostsAndExpenses 2025-02-01..2025-04-30,yes
+Q4 FY25,total_revenue,3831,derived FY - 9M,10k_FY26 0000896878-26-000037 2024-08-01..2025-07-31 minus 10q_Q3FY26 0000896878-26-000025 2024-08-01..2025-04-30,yes
+Q4 FY25,gbs_revenue,3013,derived FY - 9M,10k_FY26 0000896878-26-000037 2024-08-01..2025-07-31 minus 10q_Q3FY26 0000896878-26-000025 2024-08-01..2025-04-30,yes
+Q4 FY25,consumer_revenue,818,derived FY - 9M,10k_FY26 0000896878-26-000037 2024-08-01..2025-07-31 minus 10q_Q3FY26 0000896878-26-000025 2024-08-01..2025-04-30,yes
+Q4 FY25,qbo_accounting_revenue,1103,derived FY - 9M,10k_FY26 0000896878-26-000037 2024-08-01..2025-07-31 minus 10q_Q3FY26 0000896878-26-000025 2024-08-01..2025-04-30,yes
+Q4 FY25,online_services_revenue,1115,derived FY - 9M,10k_FY26 0000896878-26-000037 2024-08-01..2025-07-31 minus 10q_Q3FY26 0000896878-26-000025 2024-08-01..2025-04-30,yes
+Q4 FY25,online_ecosystem_revenue,2218,derived FY - 9M,10k_FY26 0000896878-26-000037 2024-08-01..2025-07-31 minus 10q_Q3FY26 0000896878-26-000025 2024-08-01..2025-04-30,yes
+Q4 FY25,qb_desktop_accounting_revenue,512,derived FY - 9M,10k_FY26 0000896878-26-000037 2024-08-01..2025-07-31 minus 10q_Q3FY26 0000896878-26-000025 2024-08-01..2025-04-30,yes
+Q4 FY25,desktop_services_supplies_revenue,283,derived FY - 9M,10k_FY26 0000896878-26-000037 2024-08-01..2025-07-31 minus 10q_Q3FY26 0000896878-26-000025 2024-08-01..2025-04-30,yes
+Q4 FY25,desktop_ecosystem_revenue,795,derived FY - 9M,10k_FY26 0000896878-26-000037 2024-08-01..2025-07-31 minus 10q_Q3FY26 0000896878-26-000025 2024-08-01..2025-04-30,yes
+Q4 FY25,turbotax_revenue,148,derived FY - 9M,10k_FY26 0000896878-26-000037 2024-08-01..2025-07-31 minus 10q_Q3FY26 0000896878-26-000025 2024-08-01..2025-04-30,yes
+Q4 FY25,credit_karma_revenue,638,derived FY - 9M,10k_FY26 0000896878-26-000037 2024-08-01..2025-07-31 minus 10q_Q3FY26 0000896878-26-000025 2024-08-01..2025-04-30,yes
+Q4 FY25,protax_revenue,32,derived FY - 9M,10k_FY26 0000896878-26-000037 2024-08-01..2025-07-31 minus 10q_Q3FY26 0000896878-26-000025 2024-08-01..2025-04-30,yes
+Q4 FY25,gbs_segment_costs,780,derived FY - 9M,10k_FY26 0000896878-26-000037 2024-08-01..2025-07-31 minus 10q_Q3FY26 0000896878-26-000025 2024-08-01..2025-04-30 (10-K member GlobalBusinessSolutionsMember),yes
+Q4 FY25,consumer_segment_costs,321,derived FY - 9M,10k_FY26 0000896878-26-000037 2024-08-01..2025-07-31 minus 10q_Q3FY26 0000896878-26-000025 2024-08-01..2025-04-30,yes
+Q4 FY25,gbs_segment_oi,2233,derived FY - 9M,10k_FY26 0000896878-26-000037 2024-08-01..2025-07-31 minus 10q_Q3FY26 0000896878-26-000025 2024-08-01..2025-04-30 (10-K member GlobalBusinessSolutionsMember),yes
+Q4 FY25,consumer_segment_oi,497,derived FY - 9M,10k_FY26 0000896878-26-000037 2024-08-01..2025-07-31 minus 10q_Q3FY26 0000896878-26-000025 2024-08-01..2025-04-30,yes
+Q4 FY25,total_segment_oi,2730,derived FY - 9M,10k_FY26 0000896878-26-000037 2024-08-01..2025-07-31 minus 10q_Q3FY26 0000896878-26-000025 2024-08-01..2025-04-30,yes
+Q4 FY25,unalloc_share_based_comp,490,derived FY - 9M,10k_FY26 0000896878-26-000037 2024-08-01..2025-07-31 minus 10q_Q3FY26 0000896878-26-000025 2024-08-01..2025-04-30,yes
+Q4 FY25,unalloc_other_corporate,1735,derived FY - 9M,10k_FY26 0000896878-26-000037 2024-08-01..2025-07-31 minus 10q_Q3FY26 0000896878-26-000025 2024-08-01..2025-04-30,yes
+Q4 FY25,unalloc_amort_acquired_tech,44,derived FY - 9M,10k_FY26 0000896878-26-000037 2024-08-01..2025-07-31 minus 10q_Q3FY26 0000896878-26-000025 2024-08-01..2025-04-30,yes
+Q4 FY25,unalloc_amort_other_intangibles,121,derived FY - 9M,10k_FY26 0000896878-26-000037 2024-08-01..2025-07-31 minus 10q_Q3FY26 0000896878-26-000025 2024-08-01..2025-04-30,yes
+Q4 FY25,unalloc_restructuring,1,derived FY - 9M,10k_FY26 0000896878-26-000037 2024-08-01..2025-07-31 minus 10q_Q3FY26 0000896878-26-000025 2024-08-01..2025-04-30,yes
+Q4 FY25,unalloc_total,2391,derived FY - 9M,10k_FY26 0000896878-26-000037 2024-08-01..2025-07-31 minus 10q_Q3FY26 0000896878-26-000025 2024-08-01..2025-04-30,yes
+Q4 FY25,gaap_operating_income,339,derived FY - 9M,10k_FY26 0000896878-26-000037 2024-08-01..2025-07-31 minus 10q_Q3FY26 0000896878-26-000025 2024-08-01..2025-04-30,yes
+Q4 FY25,cost_of_revenue_service,834,derived FY - 9M,10k_FY26 0000896878-26-000037 2024-08-01..2025-07-31 minus 10q_Q3FY26 0000896878-26-000025 2024-08-01..2025-04-30,yes
+Q4 FY25,cost_of_revenue_product,16,derived FY - 9M,10k_FY26 0000896878-26-000037 2024-08-01..2025-07-31 minus 10q_Q3FY26 0000896878-26-000025 2024-08-01..2025-04-30,yes
+Q4 FY25,selling_and_marketing,1251,derived FY - 9M,10k_FY26 0000896878-26-000037 2024-08-01..2025-07-31 minus 10q_Q3FY26 0000896878-26-000025 2024-08-01..2025-04-30,yes
+Q4 FY25,research_and_development,801,derived FY - 9M,10k_FY26 0000896878-26-000037 2024-08-01..2025-07-31 minus 10q_Q3FY26 0000896878-26-000025 2024-08-01..2025-04-30,yes
+Q4 FY25,general_and_administrative,424,derived FY - 9M,10k_FY26 0000896878-26-000037 2024-08-01..2025-07-31 minus 10q_Q3FY26 0000896878-26-000025 2024-08-01..2025-04-30,yes
+Q4 FY25,total_costs_and_expenses,3492,derived FY - 9M,10k_FY26 0000896878-26-000037 2024-08-01..2025-07-31 minus 10q_Q3FY26 0000896878-26-000025 2024-08-01..2025-04-30,yes
+Q1 FY26,total_revenue,3885,reported 3M,10q_Q1FY26 0000896878-25-000048 us-gaap:Revenues 2025-08-01..2025-10-31,yes
+Q1 FY26,gbs_revenue,2991,reported 3M,10q_Q1FY26 0000896878-25-000048 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2025-08-01..2025-10-31,yes
+Q1 FY26,consumer_revenue,894,reported 3M,10q_Q1FY26 0000896878-25-000048 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2025-08-01..2025-10-31,yes
+Q1 FY26,qbo_accounting_revenue,1206,reported 3M,10q_Q1FY26 0000896878-25-000048 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2025-08-01..2025-10-31,yes
+Q1 FY26,online_services_revenue,1145,reported 3M,10q_Q1FY26 0000896878-25-000048 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2025-08-01..2025-10-31,yes
+Q1 FY26,online_ecosystem_revenue,2351,reported 3M,10q_Q1FY26 0000896878-25-000048 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2025-08-01..2025-10-31,yes
+Q1 FY26,qb_desktop_accounting_revenue,356,reported 3M,10q_Q1FY26 0000896878-25-000048 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2025-08-01..2025-10-31,yes
+Q1 FY26,desktop_services_supplies_revenue,284,reported 3M,10q_Q1FY26 0000896878-25-000048 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2025-08-01..2025-10-31,yes
+Q1 FY26,desktop_ecosystem_revenue,640,reported 3M,10q_Q1FY26 0000896878-25-000048 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2025-08-01..2025-10-31,yes
+Q1 FY26,turbotax_revenue,198,reported 3M,10q_Q1FY26 0000896878-25-000048 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2025-08-01..2025-10-31,yes
+Q1 FY26,credit_karma_revenue,651,reported 3M,10q_Q1FY26 0000896878-25-000048 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2025-08-01..2025-10-31,yes
+Q1 FY26,protax_revenue,45,reported 3M,10q_Q1FY26 0000896878-25-000048 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2025-08-01..2025-10-31,yes
+Q1 FY26,gbs_segment_costs,657,reported 3M,10q_Q1FY26 0000896878-25-000048 us-gaap:CostsAndExpenses 2025-08-01..2025-10-31,yes
+Q1 FY26,consumer_segment_costs,310,reported 3M,10q_Q1FY26 0000896878-25-000048 us-gaap:CostsAndExpenses 2025-08-01..2025-10-31,yes
+Q1 FY26,gbs_segment_oi,2334,reported 3M,10q_Q1FY26 0000896878-25-000048 us-gaap:OperatingIncomeLoss 2025-08-01..2025-10-31,yes
+Q1 FY26,consumer_segment_oi,584,reported 3M,10q_Q1FY26 0000896878-25-000048 us-gaap:OperatingIncomeLoss 2025-08-01..2025-10-31,yes
+Q1 FY26,total_segment_oi,2918,reported 3M,10q_Q1FY26 0000896878-25-000048 us-gaap:OperatingIncomeLoss 2025-08-01..2025-10-31,yes
+Q1 FY26,unalloc_share_based_comp,543,reported 3M,10q_Q1FY26 0000896878-25-000048 us-gaap:AllocatedShareBasedCompensationExpense 2025-08-01..2025-10-31,yes
+Q1 FY26,unalloc_other_corporate,1676,reported 3M,10q_Q1FY26 0000896878-25-000048 us-gaap:OtherExpenses 2025-08-01..2025-10-31,yes
+Q1 FY26,unalloc_amort_acquired_tech,44,reported 3M,10q_Q1FY26 0000896878-25-000048 us-gaap:CostOfGoodsAndServicesSoldAmortization 2025-08-01..2025-10-31,yes
+Q1 FY26,unalloc_amort_other_intangibles,121,reported 3M,10q_Q1FY26 0000896878-25-000048 us-gaap:AmortizationOfIntangibleAssets 2025-08-01..2025-10-31,yes
+Q1 FY26,unalloc_restructuring,0,reported 3M,10q_Q1FY26 0000896878-25-000048 us-gaap:RestructuringCharges 2025-08-01..2025-10-31,yes
+Q1 FY26,unalloc_total,2384,reported 3M,10q_Q1FY26 0000896878-25-000048 intu:UnallocatedCorporateItemsTotal 2025-08-01..2025-10-31,yes
+Q1 FY26,gaap_operating_income,534,reported 3M,10q_Q1FY26 0000896878-25-000048 us-gaap:OperatingIncomeLoss 2025-08-01..2025-10-31,yes
+Q1 FY26,cost_of_revenue_service,824,reported 3M,10q_Q1FY26 0000896878-25-000048 us-gaap:CostOfGoodsAndServicesSold 2025-08-01..2025-10-31,yes
+Q1 FY26,cost_of_revenue_product,15,reported 3M,10q_Q1FY26 0000896878-25-000048 us-gaap:CostOfGoodsAndServicesSold 2025-08-01..2025-10-31,yes
+Q1 FY26,selling_and_marketing,1082,reported 3M,10q_Q1FY26 0000896878-25-000048 us-gaap:SellingAndMarketingExpense 2025-08-01..2025-10-31,yes
+Q1 FY26,research_and_development,843,reported 3M,10q_Q1FY26 0000896878-25-000048 us-gaap:ResearchAndDevelopmentExpense 2025-08-01..2025-10-31,yes
+Q1 FY26,general_and_administrative,422,reported 3M,10q_Q1FY26 0000896878-25-000048 us-gaap:GeneralAndAdministrativeExpense 2025-08-01..2025-10-31,yes
+Q1 FY26,total_costs_and_expenses,3351,reported 3M,10q_Q1FY26 0000896878-25-000048 us-gaap:CostsAndExpenses 2025-08-01..2025-10-31,yes
+Q2 FY26,total_revenue,4651,reported 3M,10q_Q2FY26 0000896878-26-000014 us-gaap:Revenues 2025-11-01..2026-01-31,yes
+Q2 FY26,gbs_revenue,3164,reported 3M,10q_Q2FY26 0000896878-26-000014 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2025-11-01..2026-01-31,yes
+Q2 FY26,consumer_revenue,1487,reported 3M,10q_Q2FY26 0000896878-26-000014 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2025-11-01..2026-01-31,yes
+Q2 FY26,qbo_accounting_revenue,1248,reported 3M,10q_Q2FY26 0000896878-26-000014 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2025-11-01..2026-01-31,yes
+Q2 FY26,online_services_revenue,1219,reported 3M,10q_Q2FY26 0000896878-26-000014 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2025-11-01..2026-01-31,yes
+Q2 FY26,online_ecosystem_revenue,2467,reported 3M,10q_Q2FY26 0000896878-26-000014 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2025-11-01..2026-01-31,yes
+Q2 FY26,qb_desktop_accounting_revenue,408,reported 3M,10q_Q2FY26 0000896878-26-000014 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2025-11-01..2026-01-31,yes
+Q2 FY26,desktop_services_supplies_revenue,289,reported 3M,10q_Q2FY26 0000896878-26-000014 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2025-11-01..2026-01-31,yes
+Q2 FY26,desktop_ecosystem_revenue,697,reported 3M,10q_Q2FY26 0000896878-26-000014 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2025-11-01..2026-01-31,yes
+Q2 FY26,turbotax_revenue,581,reported 3M,10q_Q2FY26 0000896878-26-000014 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2025-11-01..2026-01-31,yes
+Q2 FY26,credit_karma_revenue,616,reported 3M,10q_Q2FY26 0000896878-26-000014 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2025-11-01..2026-01-31,yes
+Q2 FY26,protax_revenue,290,reported 3M,10q_Q2FY26 0000896878-26-000014 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2025-11-01..2026-01-31,yes
+Q2 FY26,gbs_segment_costs,761,reported 3M,10q_Q2FY26 0000896878-26-000014 us-gaap:CostsAndExpenses 2025-11-01..2026-01-31,yes
+Q2 FY26,consumer_segment_costs,589,reported 3M,10q_Q2FY26 0000896878-26-000014 us-gaap:CostsAndExpenses 2025-11-01..2026-01-31,yes
+Q2 FY26,gbs_segment_oi,2403,reported 3M,10q_Q2FY26 0000896878-26-000014 us-gaap:OperatingIncomeLoss 2025-11-01..2026-01-31,yes
+Q2 FY26,consumer_segment_oi,898,reported 3M,10q_Q2FY26 0000896878-26-000014 us-gaap:OperatingIncomeLoss 2025-11-01..2026-01-31,yes
+Q2 FY26,total_segment_oi,3301,reported 3M,10q_Q2FY26 0000896878-26-000014 us-gaap:OperatingIncomeLoss 2025-11-01..2026-01-31,yes
+Q2 FY26,unalloc_share_based_comp,521,reported 3M,10q_Q2FY26 0000896878-26-000014 us-gaap:AllocatedShareBasedCompensationExpense 2025-11-01..2026-01-31,yes
+Q2 FY26,unalloc_other_corporate,1760,reported 3M,10q_Q2FY26 0000896878-26-000014 us-gaap:OtherExpenses 2025-11-01..2026-01-31,yes
+Q2 FY26,unalloc_amort_acquired_tech,44,reported 3M,10q_Q2FY26 0000896878-26-000014 us-gaap:CostOfGoodsAndServicesSoldAmortization 2025-11-01..2026-01-31,yes
+Q2 FY26,unalloc_amort_other_intangibles,121,reported 3M,10q_Q2FY26 0000896878-26-000014 us-gaap:AmortizationOfIntangibleAssets 2025-11-01..2026-01-31,yes
+Q2 FY26,unalloc_restructuring,0,reported 3M,10q_Q2FY26 0000896878-26-000014 us-gaap:RestructuringCharges 2025-11-01..2026-01-31,yes
+Q2 FY26,unalloc_total,2446,reported 3M,10q_Q2FY26 0000896878-26-000014 intu:UnallocatedCorporateItemsTotal 2025-11-01..2026-01-31,yes
+Q2 FY26,gaap_operating_income,855,reported 3M,10q_Q2FY26 0000896878-26-000014 us-gaap:OperatingIncomeLoss 2025-11-01..2026-01-31,yes
+Q2 FY26,cost_of_revenue_service,981,reported 3M,10q_Q2FY26 0000896878-26-000014 us-gaap:CostOfGoodsAndServicesSold 2025-11-01..2026-01-31,yes
+Q2 FY26,cost_of_revenue_product,18,reported 3M,10q_Q2FY26 0000896878-26-000014 us-gaap:CostOfGoodsAndServicesSold 2025-11-01..2026-01-31,yes
+Q2 FY26,selling_and_marketing,1395,reported 3M,10q_Q2FY26 0000896878-26-000014 us-gaap:SellingAndMarketingExpense 2025-11-01..2026-01-31,yes
+Q2 FY26,research_and_development,836,reported 3M,10q_Q2FY26 0000896878-26-000014 us-gaap:ResearchAndDevelopmentExpense 2025-11-01..2026-01-31,yes
+Q2 FY26,general_and_administrative,401,reported 3M,10q_Q2FY26 0000896878-26-000014 us-gaap:GeneralAndAdministrativeExpense 2025-11-01..2026-01-31,yes
+Q2 FY26,total_costs_and_expenses,3796,reported 3M,10q_Q2FY26 0000896878-26-000014 us-gaap:CostsAndExpenses 2025-11-01..2026-01-31,yes
+Q3 FY26,total_revenue,8558,reported 3M,10q_Q3FY26 0000896878-26-000025 us-gaap:Revenues 2026-02-01..2026-04-30,yes
+Q3 FY26,gbs_revenue,3285,reported 3M,10q_Q3FY26 0000896878-26-000025 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2026-02-01..2026-04-30,yes
+Q3 FY26,consumer_revenue,5273,reported 3M,10q_Q3FY26 0000896878-26-000025 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2026-02-01..2026-04-30,yes
+Q3 FY26,qbo_accounting_revenue,1278,reported 3M,10q_Q3FY26 0000896878-26-000025 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2026-02-01..2026-04-30,yes
+Q3 FY26,online_services_revenue,1219,reported 3M,10q_Q3FY26 0000896878-26-000025 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2026-02-01..2026-04-30,yes
+Q3 FY26,online_ecosystem_revenue,2497,reported 3M,10q_Q3FY26 0000896878-26-000025 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2026-02-01..2026-04-30,yes
+Q3 FY26,qb_desktop_accounting_revenue,507,reported 3M,10q_Q3FY26 0000896878-26-000025 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2026-02-01..2026-04-30,yes
+Q3 FY26,desktop_services_supplies_revenue,281,reported 3M,10q_Q3FY26 0000896878-26-000025 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2026-02-01..2026-04-30,yes
+Q3 FY26,desktop_ecosystem_revenue,788,reported 3M,10q_Q3FY26 0000896878-26-000025 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2026-02-01..2026-04-30,yes
+Q3 FY26,turbotax_revenue,4364,reported 3M,10q_Q3FY26 0000896878-26-000025 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2026-02-01..2026-04-30,yes
+Q3 FY26,credit_karma_revenue,631,reported 3M,10q_Q3FY26 0000896878-26-000025 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2026-02-01..2026-04-30,yes
+Q3 FY26,protax_revenue,278,reported 3M,10q_Q3FY26 0000896878-26-000025 us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax 2026-02-01..2026-04-30,yes
+Q3 FY26,gbs_segment_costs,765,reported 3M,10q_Q3FY26 0000896878-26-000025 us-gaap:CostsAndExpenses 2026-02-01..2026-04-30,yes
+Q3 FY26,consumer_segment_costs,1010,reported 3M,10q_Q3FY26 0000896878-26-000025 us-gaap:CostsAndExpenses 2026-02-01..2026-04-30,yes
+Q3 FY26,gbs_segment_oi,2520,reported 3M,10q_Q3FY26 0000896878-26-000025 us-gaap:OperatingIncomeLoss 2026-02-01..2026-04-30,yes
+Q3 FY26,consumer_segment_oi,4263,reported 3M,10q_Q3FY26 0000896878-26-000025 us-gaap:OperatingIncomeLoss 2026-02-01..2026-04-30,yes
+Q3 FY26,total_segment_oi,6783,reported 3M,10q_Q3FY26 0000896878-26-000025 us-gaap:OperatingIncomeLoss 2026-02-01..2026-04-30,yes
+Q3 FY26,unalloc_share_based_comp,485,reported 3M,10q_Q3FY26 0000896878-26-000025 us-gaap:AllocatedShareBasedCompensationExpense 2026-02-01..2026-04-30,yes
+Q3 FY26,unalloc_other_corporate,2113,reported 3M,10q_Q3FY26 0000896878-26-000025 us-gaap:OtherExpenses 2026-02-01..2026-04-30,yes
+Q3 FY26,unalloc_amort_acquired_tech,43,reported 3M,10q_Q3FY26 0000896878-26-000025 us-gaap:CostOfGoodsAndServicesSoldAmortization 2026-02-01..2026-04-30,yes
+Q3 FY26,unalloc_amort_other_intangibles,122,reported 3M,10q_Q3FY26 0000896878-26-000025 us-gaap:AmortizationOfIntangibleAssets 2026-02-01..2026-04-30,yes
+Q3 FY26,unalloc_restructuring,0,reported 3M,10q_Q3FY26 0000896878-26-000025 us-gaap:RestructuringCharges 2026-02-01..2026-04-30,yes
+Q3 FY26,unalloc_total,2763,reported 3M,10q_Q3FY26 0000896878-26-000025 intu:UnallocatedCorporateItemsTotal 2026-02-01..2026-04-30,yes
+Q3 FY26,gaap_operating_income,4020,reported 3M,10q_Q3FY26 0000896878-26-000025 us-gaap:OperatingIncomeLoss 2026-02-01..2026-04-30,yes
+Q3 FY26,cost_of_revenue_service,1317,reported 3M,10q_Q3FY26 0000896878-26-000025 us-gaap:CostOfGoodsAndServicesSold 2026-02-01..2026-04-30,yes
+Q3 FY26,cost_of_revenue_product,14,reported 3M,10q_Q3FY26 0000896878-26-000025 us-gaap:CostOfGoodsAndServicesSold 2026-02-01..2026-04-30,yes
+Q3 FY26,selling_and_marketing,1793,reported 3M,10q_Q3FY26 0000896878-26-000025 us-gaap:SellingAndMarketingExpense 2026-02-01..2026-04-30,yes
+Q3 FY26,research_and_development,840,reported 3M,10q_Q3FY26 0000896878-26-000025 us-gaap:ResearchAndDevelopmentExpense 2026-02-01..2026-04-30,yes
+Q3 FY26,general_and_administrative,409,reported 3M,10q_Q3FY26 0000896878-26-000025 us-gaap:GeneralAndAdministrativeExpense 2026-02-01..2026-04-30,yes
+Q3 FY26,total_costs_and_expenses,4538,reported 3M,10q_Q3FY26 0000896878-26-000025 us-gaap:CostsAndExpenses 2026-02-01..2026-04-30,yes
+Q4 FY26,total_revenue,4354,derived FY - 9M,10k_FY26 0000896878-26-000037 2025-08-01..2026-07-31 minus 10q_Q3FY26 0000896878-26-000025 2025-08-01..2026-04-30,yes
+Q4 FY26,gbs_revenue,3424,derived FY - 9M,10k_FY26 0000896878-26-000037 2025-08-01..2026-07-31 minus 10q_Q3FY26 0000896878-26-000025 2025-08-01..2026-04-30,yes
+Q4 FY26,consumer_revenue,930,derived FY - 9M,10k_FY26 0000896878-26-000037 2025-08-01..2026-07-31 minus 10q_Q3FY26 0000896878-26-000025 2025-08-01..2026-04-30,yes
+Q4 FY26,qbo_accounting_revenue,1319,derived FY - 9M,10k_FY26 0000896878-26-000037 2025-08-01..2026-07-31 minus 10q_Q3FY26 0000896878-26-000025 2025-08-01..2026-04-30,yes
+Q4 FY26,online_services_revenue,1284,derived FY - 9M,10k_FY26 0000896878-26-000037 2025-08-01..2026-07-31 minus 10q_Q3FY26 0000896878-26-000025 2025-08-01..2026-04-30,yes
+Q4 FY26,online_ecosystem_revenue,2603,derived FY - 9M,10k_FY26 0000896878-26-000037 2025-08-01..2026-07-31 minus 10q_Q3FY26 0000896878-26-000025 2025-08-01..2026-04-30,yes
+Q4 FY26,qb_desktop_accounting_revenue,530,derived FY - 9M,10k_FY26 0000896878-26-000037 2025-08-01..2026-07-31 minus 10q_Q3FY26 0000896878-26-000025 2025-08-01..2026-04-30,yes
+Q4 FY26,desktop_services_supplies_revenue,291,derived FY - 9M,10k_FY26 0000896878-26-000037 2025-08-01..2026-07-31 minus 10q_Q3FY26 0000896878-26-000025 2025-08-01..2026-04-30,yes
+Q4 FY26,desktop_ecosystem_revenue,821,derived FY - 9M,10k_FY26 0000896878-26-000037 2025-08-01..2026-07-31 minus 10q_Q3FY26 0000896878-26-000025 2025-08-01..2026-04-30,yes
+Q4 FY26,turbotax_revenue,153,derived FY - 9M,10k_FY26 0000896878-26-000037 2025-08-01..2026-07-31 minus 10q_Q3FY26 0000896878-26-000025 2025-08-01..2026-04-30,yes
+Q4 FY26,credit_karma_revenue,743,derived FY - 9M,10k_FY26 0000896878-26-000037 2025-08-01..2026-07-31 minus 10q_Q3FY26 0000896878-26-000025 2025-08-01..2026-04-30,yes
+Q4 FY26,protax_revenue,34,derived FY - 9M,10k_FY26 0000896878-26-000037 2025-08-01..2026-07-31 minus 10q_Q3FY26 0000896878-26-000025 2025-08-01..2026-04-30,yes
+Q4 FY26,gbs_segment_costs,794,derived FY - 9M,10k_FY26 0000896878-26-000037 2025-08-01..2026-07-31 minus 10q_Q3FY26 0000896878-26-000025 2025-08-01..2026-04-30 (10-K member GlobalBusinessSolutionsMember),yes
+Q4 FY26,consumer_segment_costs,367,derived FY - 9M,10k_FY26 0000896878-26-000037 2025-08-01..2026-07-31 minus 10q_Q3FY26 0000896878-26-000025 2025-08-01..2026-04-30,yes
+Q4 FY26,gbs_segment_oi,2630,derived FY - 9M,10k_FY26 0000896878-26-000037 2025-08-01..2026-07-31 minus 10q_Q3FY26 0000896878-26-000025 2025-08-01..2026-04-30 (10-K member GlobalBusinessSolutionsMember),yes
+Q4 FY26,consumer_segment_oi,563,derived FY - 9M,10k_FY26 0000896878-26-000037 2025-08-01..2026-07-31 minus 10q_Q3FY26 0000896878-26-000025 2025-08-01..2026-04-30,yes
+Q4 FY26,total_segment_oi,3193,derived FY - 9M,10k_FY26 0000896878-26-000037 2025-08-01..2026-07-31 minus 10q_Q3FY26 0000896878-26-000025 2025-08-01..2026-04-30,yes
+Q4 FY26,unalloc_share_based_comp,507,derived FY - 9M,10k_FY26 0000896878-26-000037 2025-08-01..2026-07-31 minus 10q_Q3FY26 0000896878-26-000025 2025-08-01..2026-04-30,yes
+Q4 FY26,unalloc_other_corporate,1754,derived FY - 9M,10k_FY26 0000896878-26-000037 2025-08-01..2026-07-31 minus 10q_Q3FY26 0000896878-26-000025 2025-08-01..2026-04-30,yes
+Q4 FY26,unalloc_amort_acquired_tech,43,derived FY - 9M,10k_FY26 0000896878-26-000037 2025-08-01..2026-07-31 minus 10q_Q3FY26 0000896878-26-000025 2025-08-01..2026-04-30,yes
+Q4 FY26,unalloc_amort_other_intangibles,121,derived FY - 9M,10k_FY26 0000896878-26-000037 2025-08-01..2026-07-31 minus 10q_Q3FY26 0000896878-26-000025 2025-08-01..2026-04-30,yes
+Q4 FY26,unalloc_restructuring,293,derived FY - 9M,10k_FY26 0000896878-26-000037 2025-08-01..2026-07-31 minus 10q_Q3FY26 0000896878-26-000025 2025-08-01..2026-04-30,yes
+Q4 FY26,unalloc_total,2718,derived FY - 9M,10k_FY26 0000896878-26-000037 2025-08-01..2026-07-31 minus 10q_Q3FY26 0000896878-26-000025 2025-08-01..2026-04-30,yes
+Q4 FY26,gaap_operating_income,475,derived FY - 9M,10k_FY26 0000896878-26-000037 2025-08-01..2026-07-31 minus 10q_Q3FY26 0000896878-26-000025 2025-08-01..2026-04-30,yes
+Q4 FY26,cost_of_revenue_service,894,derived FY - 9M,10k_FY26 0000896878-26-000037 2025-08-01..2026-07-31 minus 10q_Q3FY26 0000896878-26-000025 2025-08-01..2026-04-30,yes
+Q4 FY26,cost_of_revenue_product,16,derived FY - 9M,10k_FY26 0000896878-26-000037 2025-08-01..2026-07-31 minus 10q_Q3FY26 0000896878-26-000025 2025-08-01..2026-04-30,yes
+Q4 FY26,selling_and_marketing,1264,derived FY - 9M,10k_FY26 0000896878-26-000037 2025-08-01..2026-07-31 minus 10q_Q3FY26 0000896878-26-000025 2025-08-01..2026-04-30,yes
+Q4 FY26,research_and_development,857,derived FY - 9M,10k_FY26 0000896878-26-000037 2025-08-01..2026-07-31 minus 10q_Q3FY26 0000896878-26-000025 2025-08-01..2026-04-30,yes
+Q4 FY26,general_and_administrative,391,derived FY - 9M,10k_FY26 0000896878-26-000037 2025-08-01..2026-07-31 minus 10q_Q3FY26 0000896878-26-000025 2025-08-01..2026-04-30,yes
+Q4 FY26,total_costs_and_expenses,3879,derived FY - 9M,10k_FY26 0000896878-26-000037 2025-08-01..2026-07-31 minus 10q_Q3FY26 0000896878-26-000025 2025-08-01..2026-04-30,yes

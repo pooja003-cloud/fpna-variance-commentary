@@ -1,0 +1,31 @@
+period,metric,value_usd,accession,basis
+Q1 FY25,revenue,3283000000,0000896878-24-000053,reported 3M
+Q2 FY25,revenue,3963000000,0000896878-25-000015,reported 3M
+Q3 FY25,revenue,7754000000,0000896878-25-000022,reported 3M
+Q4 FY25,revenue,3831000000,0000896878-25-000035 - 0000896878-25-000022,derived FY - 9M
+FY25,revenue,18831000000,0000896878-25-000035,reported 12M
+Q1 FY26,revenue,3885000000,0000896878-25-000048,reported 3M
+Q2 FY26,revenue,4651000000,0000896878-26-000014,reported 3M
+Q3 FY26,revenue,8558000000,0000896878-26-000025,reported 3M
+Q4 FY26,revenue,4354000000,0000896878-26-000037 - 0000896878-26-000025,derived FY - 9M
+FY26,revenue,21448000000,0000896878-26-000037,reported 12M
+Q1 FY25,gaap_operating_income,271000000,0000896878-24-000053,reported 3M
+Q2 FY25,gaap_operating_income,593000000,0000896878-25-000015,reported 3M
+Q3 FY25,gaap_operating_income,3720000000,0000896878-25-000022,reported 3M
+Q4 FY25,gaap_operating_income,339000000,0000896878-25-000035 - 0000896878-25-000022,derived FY - 9M
+FY25,gaap_operating_income,4923000000,0000896878-25-000035,reported 12M
+Q1 FY26,gaap_operating_income,534000000,0000896878-25-000048,reported 3M
+Q2 FY26,gaap_operating_income,855000000,0000896878-26-000014,reported 3M
+Q3 FY26,gaap_operating_income,4020000000,0000896878-26-000025,reported 3M
+Q4 FY26,gaap_operating_income,475000000,0000896878-26-000037 - 0000896878-26-000025,derived FY - 9M
+FY26,gaap_operating_income,5884000000,0000896878-26-000037,reported 12M
+Q1 FY25,gaap_diluted_eps,0.7,0000896878-24-000053,reported 3M
+Q2 FY25,gaap_diluted_eps,1.67,0000896878-25-000015,reported 3M
+Q3 FY25,gaap_diluted_eps,10.02,0000896878-25-000022,reported 3M
+Q4 FY25,gaap_diluted_eps,,,not derivable
+FY25,gaap_diluted_eps,13.67,0000896878-25-000035,reported 12M
+Q1 FY26,gaap_diluted_eps,1.59,0000896878-25-000048,reported 3M
+Q2 FY26,gaap_diluted_eps,2.48,0000896878-26-000014,reported 3M
+Q3 FY26,gaap_diluted_eps,11.09,0000896878-26-000025,reported 3M
+Q4 FY26,gaap_diluted_eps,,,not derivable
+FY26,gaap_diluted_eps,16.46,0000896878-26-000037,reported 12M

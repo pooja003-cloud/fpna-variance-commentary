@@ -1,0 +1,38 @@
+target_period,scope,plan_type,metric,low,high,unit,format_in_release,converted,source_release,accession,filed,table,verified
+Q1 FY25,quarter,guidance,revenue,3114,3145,USD_M,growth in text (5-6%); dollars in Table E,no,Q4 FY24,0000896878-24-000035,2024-08-22,Table E,yes
+Q1 FY25,quarter,guidance,gaap_operating_income,231,251,USD_M,dollars,no,Q4 FY24,0000896878-24-000035,2024-08-22,Table E,yes
+Q1 FY25,quarter,guidance,gaap_diluted_eps,0.61,0.66,USD,dollars,no,Q4 FY24,0000896878-24-000035,2024-08-22,Table E,yes
+Q2 FY25,quarter,guidance,revenue,3812,3845,USD_M,dollars,no,Q1 FY25,0000896878-24-000051,2024-11-21,Forward-looking guidance,yes
+Q2 FY25,quarter,guidance,gaap_operating_income,337,357,USD_M,dollars,no,Q1 FY25,0000896878-24-000051,2024-11-21,Table E,yes
+Q2 FY25,quarter,guidance,gaap_diluted_eps,0.84,0.90,USD,dollars,no,Q1 FY25,0000896878-24-000051,2024-11-21,Forward-looking guidance,yes
+Q3 FY25,quarter,guidance,revenue,7550,7600,USD_M,dollars,no,Q2 FY25,0000896878-25-000013,2025-02-25,Forward-looking guidance,yes
+Q3 FY25,quarter,guidance,gaap_operating_income,3456,3476,USD_M,dollars,no,Q2 FY25,0000896878-25-000013,2025-02-25,Table E,yes
+Q3 FY25,quarter,guidance,gaap_diluted_eps,9.22,9.28,USD,dollars,no,Q2 FY25,0000896878-25-000013,2025-02-25,Forward-looking guidance,yes
+Q4 FY25,quarter,guidance,revenue,3723,3760,USD_M,dollars,no,Q3 FY25,0000896878-25-000020,2025-05-22,Forward-looking guidance,yes
+Q4 FY25,quarter,guidance,gaap_operating_income,314,334,USD_M,dollars (Table E only),no,Q3 FY25,0000896878-25-000020,2025-05-22,Table E,yes
+Q4 FY25,quarter,guidance,gaap_diluted_eps,0.84,0.89,USD,dollars,no,Q3 FY25,0000896878-25-000020,2025-05-22,Forward-looking guidance,yes
+Q1 FY26,quarter,guidance,revenue,3744,3776,USD_M,growth in text (14-15%); dollars in Table E,no,Q4 FY25,0000896878-25-000031,2025-08-21,Table E,yes
+Q1 FY26,quarter,guidance,gaap_operating_income,440,460,USD_M,dollars,no,Q4 FY25,0000896878-25-000031,2025-08-21,Table E,yes
+Q1 FY26,quarter,guidance,gaap_diluted_eps,1.19,1.26,USD,dollars,no,Q4 FY25,0000896878-25-000031,2025-08-21,Table E,yes
+Q2 FY26,quarter,guidance,revenue,4519,4549,USD_M,dollars,no,Q1 FY26,0000896878-25-000046,2025-11-20,Forward-looking guidance,yes
+Q2 FY26,quarter,guidance,gaap_operating_income,676,691,USD_M,dollars,no,Q1 FY26,0000896878-25-000046,2025-11-20,Table E,yes
+Q2 FY26,quarter,guidance,gaap_diluted_eps,1.76,1.81,USD,dollars,no,Q1 FY26,0000896878-25-000046,2025-11-20,Forward-looking guidance,yes
+Q3 FY26,quarter,guidance,revenue,8520,8553,USD_M,growth in text (~10%); dollars in Table E,no,Q2 FY26,0000896878-26-000012,2026-02-26,Table E,yes
+Q3 FY26,quarter,guidance,gaap_operating_income,3928,3948,USD_M,dollars,no,Q2 FY26,0000896878-26-000012,2026-02-26,Table E,yes
+Q3 FY26,quarter,guidance,gaap_diluted_eps,10.56,10.62,USD,dollars,no,Q2 FY26,0000896878-26-000012,2026-02-26,Forward-looking guidance,yes
+Q4 FY26,quarter,guidance,revenue,4247,4280,USD_M,growth in text (11-12%); dollars in Table E,no,Q3 FY26,0000896878-26-000024,2026-05-21,Table E,yes
+Q4 FY26,quarter,guidance,gaap_operating_income,296,316,USD_M,dollars (Table E only),no,Q3 FY26,0000896878-26-000024,2026-05-21,Table E,yes
+Q4 FY26,quarter,guidance,gaap_diluted_eps,0.73,0.79,USD,dollars,no,Q3 FY26,0000896878-26-000024,2026-05-21,Forward-looking guidance,yes
+Q1 FY27,quarter,guidance,revenue,4294,4313,USD_M,dollars,no,Q4 FY26,0000896878-26-000029,2026-08-25,Forward-looking guidance,yes
+Q1 FY27,quarter,guidance,gaap_operating_income,716,729,USD_M,dollars,no,Q4 FY26,0000896878-26-000029,2026-08-25,Forward-looking guidance,yes
+Q1 FY27,quarter,guidance,gaap_diluted_eps,1.71,1.75,USD,dollars,no,Q4 FY26,0000896878-26-000029,2026-08-25,Forward-looking guidance,yes
+FY26,annual,budget,revenue,20997,21186,USD_M,dollars,no,Q4 FY25,0000896878-25-000031,2025-08-21,Table E,yes
+FY26,annual,budget,gaap_operating_income,5782,5859,USD_M,dollars,no,Q4 FY25,0000896878-25-000031,2025-08-21,Table E,yes
+FY26,annual,budget,gaap_diluted_eps,15.49,15.69,USD,dollars,no,Q4 FY25,0000896878-25-000031,2025-08-21,Table E,yes
+FY26,annual,reforecast,revenue,21341,21374,USD_M,dollars,no,Q3 FY26,0000896878-26-000024,2026-05-21,Table E,yes
+FY26,annual,reforecast,gaap_operating_income,5705,5725,USD_M,dollars (includes $300M restructuring),no,Q3 FY26,0000896878-26-000024,2026-05-21,Table E,yes
+FY26,annual,reforecast,gaap_diluted_eps,15.79,15.84,USD,dollars,no,Q3 FY26,0000896878-26-000024,2026-05-21,Forward-looking guidance,yes
+FY26,annual,budget,gbs_revenue_growth,14,15,pct,growth only,pending,Q4 FY25,0000896878-25-000031,2025-08-21,Forward-looking guidance,yes
+FY26,annual,budget,consumer_revenue_growth,8,9,pct,growth only,pending,Q4 FY25,0000896878-25-000031,2025-08-21,Forward-looking guidance,yes
+FY26,annual,reforecast,gbs_revenue_growth,16,16,pct,growth only ("approximately"),pending,Q3 FY26,0000896878-26-000024,2026-05-21,Forward-looking guidance,yes
+FY26,annual,reforecast,consumer_revenue_growth,10,10,pct,growth only ("approximately"),pending,Q3 FY26,0000896878-26-000024,2026-05-21,Forward-looking guidance,yes

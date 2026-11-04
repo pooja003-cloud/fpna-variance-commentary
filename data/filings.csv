@@ -1,0 +1,14 @@
+key,form,period_end,accession,primary_doc,use
+rel_Q4FY24,8-K,2024-07-31,0000896878-24-000035,fy24q4earningspressrelease.htm,guidance Q1 FY25
+rel_Q1FY25,8-K,2024-10-31,0000896878-24-000051,fy25q1earningspressrelease.htm,guidance Q2 FY25; actuals
+rel_Q2FY25,8-K,2025-01-31,0000896878-25-000013,fy25q2earningspressrelease.htm,guidance Q3 FY25; actuals
+rel_Q3FY25,8-K,2025-04-30,0000896878-25-000020,fy25q3earningspressrelease.htm,guidance Q4 FY25; actuals
+rel_Q4FY25,8-K,2025-07-31,0000896878-25-000031,fy25q4earningspressrelease.htm,guidance Q1 FY26 + FY26 budget; actuals; Q4 FY25 reasons
+rel_Q1FY26,8-K,2025-10-31,0000896878-25-000046,fy26q1earningspressrelease.htm,guidance Q2 FY26; actuals
+rel_Q2FY26,8-K,2026-01-31,0000896878-26-000012,fy26q2earningspressrelease.htm,guidance Q3 FY26; actuals
+rel_Q3FY26,8-K,2026-04-30,0000896878-26-000024,fy26q3earningspressrelease.htm,guidance Q4 FY26 + FY26 reforecast; actuals
+rel_Q4FY26,8-K,2026-07-31,0000896878-26-000029,fy26q4earningspressrelease.htm,guidance Q1 FY27; actuals; Q4 FY26 reasons
+10q_Q1FY26,10-Q,2025-10-31,0000896878-25-000048,intu-20251031.htm,segments Q1 FY26 + recast Q1 FY25; MD&A
+10q_Q2FY26,10-Q,2026-01-31,0000896878-26-000014,intu-20260131.htm,segments Q2 FY26 + recast Q2 FY25; MD&A
+10q_Q3FY26,10-Q,2026-04-30,0000896878-26-000025,intu-20260430.htm,segments Q3 + 9M FY26 and recast FY25; MD&A
+10k_FY26,10-K,2026-07-31,0000896878-26-000037,intu-20260731.htm,segments FY26 + recast FY25 annual
